@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Patrick+Hand&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Alegreya&display=swap');
+#header {
+	background-color: F7A12D;
+	font-family:'Alegreya';
+	font-size: 50px;
+	text-align: top;
+	border-radius: 10px;
+	padding:  20px;
+	color: white;
+}
+.slogan {
+	font-size: 20px;
+	text-transform: abercase;
+	font-family: 'Roboto'; 
+}
+.nav {
+	padding:  20px;
+}
+.navtext {
+	margin-right: 7px;
+}
+#firstsidebar {
+	background-color: 4A73F3;
+	padding: 20px;
+	padding-top: 40px;
+	padding-bottom: 40px;
+    background-size: 40%;
+}
+.main {
+	background-color: F76500;
+	text-transform: abercase;
+	padding: 10px;
+	color: white;
+}
+.subtext {
+	font-family: 'Patrick Hand'
+}
+#secondsidebar {
+	color: white;
+	background-color: 3CE1FB;
+	padding: 20px;
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+.footertext {
+	text-align: right;
+}
+.footer {
+	background-color: C7C7C2;
+	padding: 5px;
+}
